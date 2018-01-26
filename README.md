@@ -8,7 +8,7 @@ According to statistic from EyeView’s study, Video on landing page can increas
 
 - Installation guide: https://blog.landofcoder.com/magento-2-install-extension/
 - Download from our Live site: http://www.venustheme.com/theme/ves-video-landing-page/
-- Get Support: https://landofcoder.ticksy.com/
+- Get Support: https://venustheme.ticksy.com/
 
 ## 2. How to install Extension
 
@@ -30,7 +30,7 @@ php ­f bin/magento setup:upgrade
 
 Step 6: After opening Stores­ >>Configuration >­>Advanced >­> Advanced, the module will be shown in the admin panel
 
-## 3. What make people fall in love with LOF marketplace extensions
+## 3. What make people fall in love with the extensions
 
 ### Fully Responsive video landing page
 The extension lets you create a responsive landing page for different devices such as: mobile, tablets, laptop, PC.
@@ -48,7 +48,7 @@ Currently, Ves Video Landing Page supports 3 Captions with Tons of Effects.
 ### Easy to Use
 This Extension lets you show video landing page easy. All you need is add video ID. Also you can turn ON/OFF Video loop, Auto Play, Mute
 
-## LandOfCoder extensions on Magento Marketplace, Github
+## LandOfCoder, Venustheme extensions on Magento Marketplace, Github
 
 - [Magento 2 Multivendor Marketplace](https://landofcoder.com/magento-2-marketplace-extension.html/)
 - [Magento 2 Blog Extension](https://landofcoder.com/magento-2-blog-extension.html/)
